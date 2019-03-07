@@ -6,4 +6,5 @@
 
 *On operation 1 is used to represent AND, 0 represents OR
 
+* The code reached 98% accuracy
 
